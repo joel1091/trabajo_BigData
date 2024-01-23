@@ -1,0 +1,13 @@
+{
+    "sortOrder": [
+        {
+            "columnIndex": 1,
+            "ascending": false
+        },
+        {
+            "columnIndex": 2,
+            "ascending": true
+        }
+    ],
+    "path": "~/Escritorio/trabajo_BigData_equipo"
+}

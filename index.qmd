@@ -1,0 +1,26 @@
+---
+title: "Trabajo Individual" 
+image: imagenes/netflix.png      #- poned una foto vuestra
+about:
+  template: broadside        #- {jolla, solana, ...}
+  image-width: 14em         #- https://cybmeta.com/em-y-rem
+  image-shape: rounded    #- {rectangle, round, rounded}
+  links:
+    - icon: envelope
+      text: e-mail
+      url: "mailto:<joelsf43@gmail.com>"            #- pon tu e-mail
+    - icon: github
+      text: Github
+      href: https://github.com/joel1091>         #- Github
+---
+        
+Hola, mi nombre es Joel Seguí Far
+      
+Esta web sirve para presentar el trabajo final individual para la asignatura "Programación y manejo de datos en la era Del Big Data", optativa de GECO en la Facultad de Economía de la Universitat de València.
+
+La web de la asignatura está [aquí](https://perezp44.github.io/intro-ds-23-24-web/){target="_blank"} y los trabajos de mis compañeros de curso puedes verlos [aquí](https://perezp44.github.io/intro-ds-23-24-web/05-trabajos-estudiantes.html){target="_blank"}.
+
+
+Mi trabajo lleva por título : "Análisis de la plataforma de streaming NETFLIX". El objetivo de este trabajo es analizar las diferencias que existen en la creación de contenido en netflix. Compararemos Las películas con las series, observaremos las diferencias entre países, y los autores más relevantes, entre otras cosas.
+
+El trabajo puede verse [aquí](my_trabajo_BigData.html).
